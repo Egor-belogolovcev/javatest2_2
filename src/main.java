@@ -1,5 +1,5 @@
-public class main {
-    public static void main(String[] args) {
+public class Main {
+    public static void Main(String[] args) {
         int amountMoney = 1; //кол-во денег на счету
         int elementaryScore = 100; //начальный счет
         int amountPayment = 1100; //сумма пополнения
